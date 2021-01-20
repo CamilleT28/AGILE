@@ -1,5 +1,3 @@
-import onExit from '../Popup/Close';
-
 function Popup() {
   return (
     <div className='popup--container' id='popupContainer'>
@@ -8,7 +6,6 @@ function Popup() {
           <i
             className='fas fa-times fa-lg pb-4 pr-2 align-self-end'
             id='pouppExit'
-            onClick={onExit}
           ></i>
           <img
             src=''
