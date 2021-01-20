@@ -1,0 +1,59 @@
+const NewsData = [
+    {
+      id: 1,
+      imgUrl:"/assets/L11.webp" ,
+      title: "L11" ,
+      direction: "L'Hospitalet de Llobregat" ,
+      description: "Repairs" ,
+  
+    },
+    {
+      id: 2,
+      imgUrl:"/assets/L10.webp" ,
+      title: "L10" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    },
+    {
+      id: 3,
+      imgUrl:"/assets/L9.webp" ,
+      title: "L9" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    },
+    {
+      id: 4,
+      imgUrl:"/assets/L5.webp" ,
+      title: "L5" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    },
+    {
+      id: 5,
+      imgUrl:"/assets/L4.webp",
+      title: "L4" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    },
+    {
+      id: 6,
+      imgUrl:"/assets/L3.webp",
+      title: "L3" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    },
+    {
+      id: 7,
+      imgUrl:"/assets/L2.webp",
+      title: "L2" ,
+      direction: "lorem ipsum" ,
+      description: "dolor sit amet" ,
+  
+    }
+  ];
+  export default NewsData;
